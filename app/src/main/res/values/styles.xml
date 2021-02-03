@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <!-- No ActionBar theme. -->
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+    <style name="TabTextStyle" parent="android:Widget">
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">serif</item>
+    </style>
+    <!-- Animated Loading Indicator -->
+
+    <style name="AnimatedLoadingIndicatorView">
+        <item name="minWidth">@dimen/anim_large</item>
+        <item name="maxWidth">@dimen/anim_large</item>
+        <item name="minHeight">@dimen/anim_large</item>
+        <item name="maxHeight">@dimen/anim_large</item>
+        <item name="indicatorName">BallScaleMultiple</item>
+    </style>
+
+
+</resources>

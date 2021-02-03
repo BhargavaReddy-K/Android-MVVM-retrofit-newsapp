@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="tab_indicator_height">4dp</dimen>
+    <dimen name="card_radius">5dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+    <dimen name="card_margin">10dp</dimen>
+    <dimen name="image_height">150sp</dimen>
+    <dimen name="padding_5">5sp</dimen>
+    <dimen name="padding_10">10sp</dimen>
+    <dimen name="anim_large">76dip</dimen>
+
+</resources>
